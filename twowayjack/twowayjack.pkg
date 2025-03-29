@@ -1,4 +1,4 @@
-D 'DEA': Data envelopment analysis
+D 'twowayjack': Twoway cluster jackknife variance estimation Use twowayjack With STATA 18
 D
-F dea.ado
-F dea.sthlp
+F twowayjack.ado
+F twowayjack.sthlp
