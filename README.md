@@ -1,7 +1,9 @@
 # twowayjack
-Twoway cluster jackknife variance estimation Use twowayjack With STATA 18
+Twoway cluster jackknife variance estimation Use twowayjack With STATA 19
 
-Jackknife Inference With two-way clustering Use twowayjack With STATA 18
+Jackknife Inference With two-way clustering Use twowayjack With STATA 19
+
+https://www.youtube.com/watch?v=9wMHkh4AZBg
 
 Olah Data Semarang
 
